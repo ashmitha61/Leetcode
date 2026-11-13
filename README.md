@@ -1,4 +1,14 @@
-## Hi there 👋
+
+# Hi there! 👋 I'm Ashmitha
+
+🎓 Computer Science Engineering Student
+
+## 💻 LeetCode Profile
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Ashmitha_61-orange?logo=leetcode)](https://leetcode.com/u/Ashmitha_61/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ashmitha_61?theme=dark&ext=heatmap)
+
 
 <!--
 **ashmitha61/ashmitha61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
